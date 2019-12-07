@@ -1,0 +1,8 @@
+{
+    "mongoConnection" : "movies_Mongo",
+    "jwtPrivateKey" : "movies_jwtPrivateKey",
+    "connection" : "connectionString",
+    "mail" : {
+        "host" : "dev-mail-server"
+    }
+}

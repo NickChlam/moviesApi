@@ -1,0 +1,9 @@
+{
+    "mongoConnection" : "",
+    "jwtPrivateKey" : "",
+    "connection" : "",
+    "name" : "Movies - development",
+    "mail" : {
+        "host" : "dev-mail-server"
+    }
+}

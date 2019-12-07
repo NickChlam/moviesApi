@@ -1,0 +1,9 @@
+{
+    "mongoConnection" : "",
+    "jwtPrivateKey" : "",
+    "connection" : "",
+    "name" : "movies",
+    "mail" : {
+        "host" : "prod-mail-server"
+    }
+}
